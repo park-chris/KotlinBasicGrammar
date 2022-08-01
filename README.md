@@ -3,4 +3,4 @@
 
 <br>
 
-- 2022.08.01 : Github와 VSCode 연동
+- 2022.08.01 : Github와 VSCode 연동 완료
